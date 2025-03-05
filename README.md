@@ -1,4 +1,4 @@
-# 1. Launch the: "Machine Learning with Databricks" Lab
+# 1. Launch your lab environment
 ----------------------------------------------
 ### 2. Download Course Materials from:
 # github.com/monaldoj-db/data-science-on-databricks-workshop
